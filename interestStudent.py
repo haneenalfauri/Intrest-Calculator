@@ -1,12 +1,3 @@
-##################################################################
-# Student contributions to the interest calculator      "This is a Draft"
-#
-# You are free to add additional utility functions as you see fit,
-# but you must implement each of the following functions while
-# adhering to the specifications given in the project description
-##################################################################
-
-#---------------------------------------------------------------------------------
 
 def greeting():
     print("This interest calculator will ask you to select an interest rate,\nfollowed by a principal value.  It will then calculate and display\nthe principal, interest rate, and balance after one year.  You will\nthen be invited to execute the process again or terminate.")
